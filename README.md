@@ -1,2 +1,2 @@
 # prog_front_end_tads_26
-Trabalho
+repositorio dos laboratorios da disciplina de programação front-end [tads - 2026]
