@@ -28,10 +28,19 @@ body{
     background-color: #0e1014;
     color: #FFF
 }
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 75px 360px 0;
+}
 
 header img {
     display: block;
-    margin: 75px 0 0 360px;
+}
+header span {
+    font-size: 24px;
+    cursor: pointer;
 }
 
 h1 {
